@@ -13,4 +13,4 @@
 2. Second
 
 
- [HSE](https://www.hse.ru/)
+ [вышка](https://www.hse.ru/)
